@@ -46,7 +46,7 @@ This awesome list categorizes methods into four paradigms:
 | :-------- | :---- | :----------- | :--- | :--------- | :------- |
 | GeoBrowse | [GeoBrowse: A Geolocation Benchmark for Agentic Tool Use with Expert-Annotated Reasoning Traces](https://arxiv.org/abs/2604.04017v1) | Arxiv 2026 | `FG`, `Rea` | Geolocation benchmark, agentic tool use, expert reasoning traces | [Arxiv](https://arxiv.org/abs/2604.04017v1) |
 | VisuRiddles | [VisuRiddles: Fine-grained Perception is a Primary Bottleneck for Multimodal Large Language Models in Abstract Visual Reasoning](https://arxiv.org/abs/2506.02537) | AAAI 2026 | `FG` | Visual riddles, fine-grained perception evaluation | [Arxiv](https://arxiv.org/abs/2506.02537) |
-| ZoomBench | [Zooming without Zooming: Region-to-Image Distillation for Fine-Grained Multimodal Perception](https://arxiv.org/abs/2602.11858) | Arxiv 2026 | `FG`, `Rea` | 845 VQA samples, 6 perceptual dimensions, dual-view evaluation | [GitHub](https://github.com/inclusionAI/Zooming-without-Zooming) |
+| ZoomBench | [Zooming without Zooming: Region-to-Image Distillation for Fine-Grained Multimodal Perception](https://arxiv.org/abs/2602.11858) | ICML 2026 | `FG`, `Rea` | 845 VQA samples, 6 perceptual dimensions, dual-view evaluation | [GitHub](https://github.com/inclusionAI/Zooming-without-Zooming) |
 | RTV-Bench | [RTV-Bench: Benchmarking MLLM Continuous Perception](https://arxiv.org/abs/2505.02064) | ICLR 2026 | `FG`, `Rea` | Real-time video analysis, 552 videos, 4,608 QA pairs, multi-timestamp reasoning | [GitHub](https://github.com/LJungang/RTV-Bench) |
 | SFE | [Scientists' First Exam: Probing Cognitive Abilities of MLLM via Perception, Understanding, and Reasoning](https://arxiv.org/abs/2506.10521) | ICLR 2026 | `FG`, `Rea` | Scientific cognitive evaluation, three interconnected levels | [GitHub](https://github.com/PrismaX-Team/sfe) |
 | VStar | [V*: Guided Visual Search as a Core Mechanism in Multimodal LLMs](https://arxiv.org/abs/2312.14135) | CVPR 2024 | `FG` | Visual search, attribute recognition | [GitHub](https://github.com/penghao-wu/vstar) |
@@ -62,7 +62,7 @@ This awesome list categorizes methods into four paradigms:
 | ColorBench | [ColorBench: Can VLMs See and Understand the Colorful World? A Benchmark for Color Perception](https://arxiv.org/abs/2504.10514) | Arxiv 2025 | `FG` | Color perception evaluation | [GitHub](https://github.com/tianyi-lab/ColorBench) |
 | GroundingME | [GroundingME: Grounding Multi-Modal Evaluation](https://arxiv.org/abs/2512.17495) | Arxiv 2025 | `Grd` | Multi-modal grounding evaluation | N/A |
 | MME-RealWorld | [MME-RealWorld: Evaluating Real-World Perception in MLLMs](https://arxiv.org/abs/2408.13257) | Arxiv 2024 | `FG`, `Grd` | Real-world perception benchmark | [GitHub](https://github.com/MME-RealWorld) |
-| TreeBench | [Traceable Evidence Enhanced Visual Grounded Reasoning: Evaluation and Methodology](https://arxiv.org/abs/2507.07999) | Arxiv 2025 | `Rea` | Traceable reasoning evaluation | [GitHub](https://github.com/Haochen-Wang409/TreeVGR) |
+| TreeBench | [Traceable Evidence Enhanced Visual Grounded Reasoning: Evaluation and Methodology](https://arxiv.org/abs/2507.07999) | ICLR 2026 | `Rea` | Traceable reasoning evaluation | [GitHub](https://github.com/Haochen-Wang409/TreeVGR) |
 
 ⬆ [Back to Top](#contents)
 
@@ -162,9 +162,9 @@ This awesome list categorizes methods into four paradigms:
 | --- | --- | --- | --- |
 | [LanteRn: Latent Visual Structured Reasoning](https://arxiv.org/abs/2603.25629v1) | Arxiv 2026 | Latent Visual Reasoning, Structured Reasoning | N/A |
 | [TextHawk: Exploring Efficient Fine-Grained Perception of Multimodal Large Language Models](https://github.com/yuyq96/TextHawk) | Arxiv 2025 | Efficient Fine-Grained Perception, Text-rich | [GitHub](https://github.com/yuyq96/TextHawk) |
-| [Traceable Evidence Enhanced Visual Grounded Reasoning: Evaluation and Methodology](https://arxiv.org/abs/2507.07999v2) | Arxiv 2025 | Traceable Evidence, Visual Grounded Reasoning | [GitHub](https://github.com/Haochen-Wang409/TreeVGR) |
+| [Traceable Evidence Enhanced Visual Grounded Reasoning: Evaluation and Methodology](https://arxiv.org/abs/2507.07999v2) | ICLR 2026 | Traceable Evidence, Visual Grounded Reasoning | [GitHub](https://github.com/Haochen-Wang409/TreeVGR) |
 | [SSR: Enhancing Depth Perception in Vision-Language Models via Spatial Sense and Reasoning](https://arxiv.org/abs/2505.12448) | ICLR 2026 | Depth Perception, Spatial Reasoning, Structured Rationales | [GitHub](https://github.com/yliu-cs/SSR) |
-| [Zooming without Zooming: Region-to-Image Distillation for Fine-Grained Multimodal Perception](https://arxiv.org/abs/2504.xxxxx) | Arxiv 2025 | Region-to-Image Distillation, ZoomBench, Single-Pass Perception | [GitHub](https://github.com/inclusionAI/Zooming-without-Zooming) |
+| [Zooming without Zooming: Region-to-Image Distillation for Fine-Grained Multimodal Perception](https://arxiv.org/abs/2504.xxxxx) | ICML 2026 | Region-to-Image Distillation, ZoomBench, Single-Pass Perception | [GitHub](https://github.com/inclusionAI/Zooming-without-Zooming) |
 | [URSA: Understanding and Verifying Chain-of-thought Reasoning in Multimodal Mathematics](https://arxiv.org/abs/2501.04686v1) | Arxiv 2025 | Mathematical Reasoning, Verification | [GitHub](https://github.com/URSA-MATH/URSA-MATH) |
 | [Can We Generate Images with CoT? Let's Verify and Reinforce Image Generation Step by Step](https://arxiv.org/abs/2501.13926) | Arxiv 2025 | Image Generation CoT, Verification | [GitHub](https://github.com/ZiyuGuo99/Image-Generation-CoT) |
 | [RedStar: Does Scaling Long-CoT Data Unlock Better Slow-Reasoning Systems?](https://arxiv.org/abs/2501.11284) | Arxiv 2025 | Long-CoT, Scaling | N/A |
