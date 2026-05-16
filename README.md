@@ -190,10 +190,10 @@ This awesome list categorizes methods into four paradigms:
 | [ViPER: Empowering the Self-Evolution of Visual Perception Abilities in Vision-Language Models](https://arxiv.org/abs/2510.24285) | ICLR 2026 | Self-Evolution, Fine-Grained Perception, RL | [GitHub](https://github.com/Icarus1216/ViPER) |
 | [ViCrit: A Verifiable Reinforcement Learning Proxy Task for Visual Perception](https://arxiv.org/abs/2506.10128) | ICLR 2026 | Visual Hallucination Critic, RL Proxy Task, Fine-Grained Perception | [GitHub](https://github.com/si0wang/ViCrit) |
 | [RAPID: Reasoning-Aligned Perception Decoupling for Scalable Multi-modal Large Language Models](https://arxiv.org/abs/2506.04559) | ICLR 2026 | Perception-Decoupling, Reasoning Alignment, Two-stage Pipeline | [GitHub](https://github.com/gyhdog99/RACRO2) |
-| [R1-VL: Learning to Reason with Multimodal Large Language Models via Step-wise Group Relative Policy Optimization](https://arxiv.org/abs/2503.12937) | Arxiv 2025 | GRPO, Step-wise Reasoning | [GitHub](https://github.com/r1-vl) |
-| [LlamaV-o1: Rethinking Step-by-Step Visual Reasoning in LLMs](https://arxiv.org/abs/2501.06186) | Arxiv 2025 | Visual Reasoning, O1-style | [GitHub](https://github.com/mbzuai-oryx/LlamaV-o1) |
+| [R1-VL: Learning to Reason with Multimodal Large Language Models via Step-wise Group Relative Policy Optimization](https://arxiv.org/abs/2503.12937) | ICCV 2025 | GRPO, Step-wise Reasoning | [GitHub](https://github.com/r1-vl) |
+| [LlamaV-o1: Rethinking Step-by-Step Visual Reasoning in LLMs](https://arxiv.org/abs/2501.06186) | ACL-Findings 2025 | Visual Reasoning, O1-style | [GitHub](https://github.com/mbzuai-oryx/LlamaV-o1) |
 | [Virgo: A Preliminary Exploration on Reproducing o1-like MLLM](https://arxiv.org/abs/2501.01904) | Arxiv 2025 | O1-like MLLM, Reasoning Exploration | [GitHub](https://github.com/Richar-Du/Virgo) |
-| [VisualPRM: An Effective Process Reward Model for Multimodal Reasoning](https://arxiv.org/abs/2503.10291) | Arxiv 2025 | Process Reward Model | N/A |
+| [VisualPRM: An Effective Process Reward Model for Multimodal Reasoning](https://arxiv.org/abs/2503.10291) | Arxiv 2025 | Process Reward Model | [Github](https://internvl.github.io/blog/2025-03-13-VisualPRM/) |
 | [MedVLM-R1: Incentivizing Medical Reasoning Capability of VLMs via Reinforcement Learning](https://arxiv.org/abs/2502.19634) | Arxiv 2025 | Medical Reasoning, RL | [GitHub](https://github.com/JZPeterPan/MedVLM-R1) |
 | [MM-Eureka: Exploring Visual Aha Moment with Rule-based Large-scale Reinforcement Learning](https://arxiv.org/abs/2503.07365) | Arxiv 2025 | Visual Aha Moment, Rule-based RL | [GitHub](https://github.com/ModalMinds/MM-EUREKA) |
 | [VisualThinker-R1-Zero: R1-Zero's "Aha Moment" in Visual Reasoning on a 2B Non-SFT Model](https://arxiv.org/abs/2503.05132) | Arxiv 2025 | R1-Zero, Visual Reasoning | [GitHub](https://github.com/turningpoint-ai/VisualThinker-R1-Zero) |
@@ -205,8 +205,8 @@ This awesome list categorizes methods into four paradigms:
 | [VisRL: Intention-Driven Visual Perception via Reinforced Reasoning](https://arxiv.org/abs/2503.07523) | Arxiv 2025 | Intention-Driven, Reinforced Reasoning | [GitHub](https://github.com/zhangquanchen/VisRL) |
 | [Boosting Multimodal Reasoning with MCTS-Automated Structured Thinking](https://arxiv.org/abs/2502.02339) | Arxiv 2025 | MCTS, Structured Thinking | [GitHub](https://github.com/waltonfuture/RL-with-Cold-Start) |
 | [R1-OneVision: Advancing Generalized Multimodal Reasoning through Cross-Modal Formalization](https://arxiv.org/abs/2503.10615) | Arxiv 2025 | Cross-Modal, Generalized Reasoning | [GitHub](https://github.com/Fancy-MLLM/R1-Onevision) |
-| [Mulberry: Empowering MLLM with O1-like Reasoning and Reflection via Collective Monte Carlo Tree Search](https://arxiv.org/abs/2412.18319) | Arxiv 2024 | MCTS, O1-like Reasoning | [GitHub](https://github.com/HJYao00/Mulberry) |
-| [Diving into Self-Evolving Training for Multimodal Reasoning](https://arxiv.org/abs/2412.17451) | Arxiv 2024 | Self-Evolving, RL Training | [GitHub](https://github.com/hkust-nlp/mstar) |
+| [Mulberry: Empowering MLLM with O1-like Reasoning and Reflection via Collective Monte Carlo Tree Search](https://arxiv.org/abs/2412.18319) | NeurIPS 2025 Spotlight | MCTS, O1-like Reasoning | [GitHub](https://github.com/HJYao00/Mulberry) |
+| [Diving into Self-Evolving Training for Multimodal Reasoning](https://arxiv.org/abs/2412.17451) | ICML 2025 | Self-Evolving, RL Training | [GitHub](https://github.com/hkust-nlp/mstar) |
 
 ⬆ [Back to Top](#contents)
 
