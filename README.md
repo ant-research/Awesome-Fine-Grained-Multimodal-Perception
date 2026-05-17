@@ -111,10 +111,10 @@ This awesome list categorizes methods into four paradigms:
 | [Cantor: Inspiring Multimodal Chain-of-Thought of MLLM](https://arxiv.org/abs/2404.16033) | MM 2024 | CoT Inspiration, MLLM Reasoning | [GitHub](https://github.com/ggg0919/cantor) |
 | [KAM-CoT: Knowledge Augmented Multimodal Chain-of-Thoughts Reasoning](https://arxiv.org/abs/2401.12863) | AAAI 2024 | Knowledge Augmentation, CoT Reasoning | N/A |
 | [Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models](https://arxiv.org/abs/2304.09842) | NeurIPS 2023 | Compositional Reasoning, Tool Integration | [GitHub](https://github.com/lupantech/chameleon-llm) |
-| [See, Think, Confirm: Interactive Prompting Between Vision and Language Models](https://arxiv.org/abs/2301.05226) | Arxiv 2023 | Interactive Prompting, Knowledge-based Reasoning | N/A |
+| [Visual Chain-of-Thought Prompting for Knowledge-based Visual Reasoning](https://zfchenunique.github.io/files/aaai24_vcot_arxiv.pdf) | AAAI 2024 | Interactive Prompting, Knowledge-based Reasoning | N/A |
 | [Visual Chain of Thought: Bridging Logical Gaps with Multimodal Infillings](https://arxiv.org/abs/2305.02317) | Arxiv 2023 | Multimodal Infillings, Visual CoT | [GitHub](https://github.com/dannyrose30/VCOT) |
 | [Chain of Thought Prompt Tuning in Vision Language Models](https://arxiv.org/abs/2304.07919) | Arxiv 2023 | Prompt Tuning, VLM CoT | N/A |
-| [Multimodal Chain-of-Thought Reasoning in Language Models](https://arxiv.org/abs/2302.00923) | Arxiv 2023 | Multimodal CoT, Two-stage Framework | [GitHub](https://github.com/amazon-science/mm-cot) |
+| [Multimodal Chain-of-Thought Reasoning in Language Models](https://arxiv.org/abs/2302.00923) | TMLR 2024 | Multimodal CoT, Two-stage Framework | [GitHub](https://github.com/amazon-science/mm-cot) |
 
 ⬆ [Back to Top](#contents)
 
