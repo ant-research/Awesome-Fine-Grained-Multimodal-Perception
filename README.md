@@ -229,7 +229,7 @@ This awesome list categorizes methods into four paradigms:
 | [Robotic Control via Embodied Chain-of-Thought Reasoning](https://arxiv.org/abs/2407.08693) | Arxiv 2024 | Robotics | Embodied CoT, Control | [GitHub](https://github.com/MichalZawalski/embodied-CoT) |
 | [Reason2Drive: Towards Interpretable and Chain-based Reasoning for Autonomous Driving](https://arxiv.org/abs/2312.03661) | ECCV 2024 | Autonomous Driving | Interpretable, Chain Reasoning | [GitHub](https://github.com/fudan-zvg/Reason2Drive) |
 | [Dolphins: Multimodal Language Model for Driving](https://arxiv.org/abs/2312.00438) | ECCV 2024 | Autonomous Driving | Driving-specific, Multimodal | [GitHub](https://github.com/SaFo-Lab/Dolphins) |
-| [DriveCoT: Integrating Chain-of-Thought Reasoning with End-to-End Driving](https://arxiv.org/abs/2403.16996) | Arxiv 2024 | Autonomous Driving | End-to-End Driving, CoT | N/A |
+| [DriveCoT: Integrating Chain-of-Thought Reasoning with End-to-End Driving](https://arxiv.org/abs/2403.16996) | Arxiv 2024 | Autonomous Driving | End-to-End Driving, CoT | [Github](https://drivecot.github.io) |
 | [ManipLLM: Embodied Multimodal Large Language Model for Object-Centric Robotic Manipulation](https://arxiv.org/abs/2312.16217) | CVPR 2024 | Robotics | Object-centric, Manipulation | [GitHub](https://github.com/clorislili/ManipLLM) |
 
 ⬆ [Back to Top](#contents)
