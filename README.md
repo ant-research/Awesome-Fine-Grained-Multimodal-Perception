@@ -129,23 +129,23 @@ This awesome list categorizes methods into four paradigms:
 | [S1-VL: Scientific Multimodal Reasoning Model with Thinking-with-Images](https://arxiv.org/abs/2604.21409v1) | Arxiv 2026 | Scientific Reasoning, Thinking-with-Images | N/A |
 | [Test-time Scaling over Perception: Resolving the Grounding Paradox in Thinking with Images](https://arxiv.org/abs/2604.11025v1) | Arxiv 2026 | Test-time Scaling, Grounding Paradox | N/A |
 | [Walk the Talk: Bridging the Reasoning-Action Gap for Thinking with Images via Multimodal Agentic Policy Optimization](https://arxiv.org/abs/2604.06777v1) | Arxiv 2026 | Agentic Policy Optimization, Reasoning-Action Gap | N/A |
-| [Visual Planning: Let's Think Only with Images](https://github.com/yix8/VisualPlanning) | ICLR 2026 | Visual Planning, Image-only Reasoning | [GitHub](https://github.com/yix8/VisualPlanning) |
+| [Visual Planning: Let's Think Only with Images](https://arxiv.org/abs/2505.11409) | ICLR 2026 Oral | Visual Planning, Image-only Reasoning | [GitHub](https://github.com/yix8/VisualPlanning) |
 | [Let's Think with Images Efficiently! An Interleaved-Modal Chain-of-Thought Reasoning Framework with Dynamic and Precise Visual Thoughts](https://arxiv.org/abs/2603.21754v1) | AAAI 2026 | Interleaved-Modal CoT, Dynamic Visual Thoughts | [GitHub](https://github.com/67L1/DaP-ICoT) |
+| [Thinking with Video: Video Generation as a Promising Multimodal Reasoning Paradigm](https://arxiv.org/abs/2511.04570v2) | CVPR 2026 | Video Generation, Multimodal Reasoning Paradigm | [GitHub](https://github.com/tongjingqi/Thinking-with-Video) |
+| [AGILE: Agentic Jigsaw Interaction Learning for Enhancing Visual Perception and Reasoning in VLMs](https://arxiv.org/abs/2510.01304) | ICLR 2026 | Agentic Interaction, Jigsaw Puzzle, Visual Perception | [GitHub](https://github.com/yuzeng0-0/AGILE) |
+| [DeepEyes: Incentivizing "Thinking with Images" in Vision-Language Models via Reinforcement Learning](https://arxiv.org/abs/2505.14362) | ICLR 2026 | Reinforcement Learning, Zoom/Crop Tools, Long CoT | [GitHub](https://github.com/Visual-Agent/DeepEyes) |
+| [Thyme: Think Beyond Images](https://arxiv.org/abs/2508.11630) | ICLR 2026 | Pixel-space Operations, Code Generation | [GitHub](https://github.com/yfzhang114/Thyme) |
+| [Mini-o3: Scaling Up Reasoning Patterns and Interaction Turns for Visual Search](https://arxiv.org/abs/2509.07969) | ICLR 2026 | Visual Probing, Agentic Tools | [GitHub](https://github.com/Mini-o3/Mini-o3) |
 | [VR-Thinker: Boosting Video Reward Models through Thinking-with-Image Reasoning](https://arxiv.org/abs/2510.10518v4) | Arxiv 2025 | Video Reward Models, Thinking-with-Image | [GitHub](https://github.com/qunzhongwang/vr-thinker) |
 | [DeepSketcher: Internalizing Visual Manipulation for Multimodal Reasoning](https://arxiv.org/abs/2509.25866v2) | Arxiv 2025 | Visual Manipulation, Sketching, Internalized | [GitHub](https://github.com/MiliLab/DeepSketcher) |
-| [Thinking with Video: Video Generation as a Promising Multimodal Reasoning Paradigm](https://arxiv.org/abs/2511.04570v2) | Arxiv 2025 | Video Generation, Multimodal Reasoning Paradigm | [GitHub](https://github.com/tongjingqi/Thinking-with-Video) |
 | [CodeDance: A Dynamic Tool-integrated MLLM for Executable Visual Reasoning](https://arxiv.org/abs/2512.17312v2) | Arxiv 2025 | Tool-integrated, Executable Visual Reasoning | [GitHub](https://github.com/CodeDance-VL/CodeDance) |
-| [AGILE: Agentic Jigsaw Interaction Learning for Enhancing Visual Perception and Reasoning in VLMs](https://arxiv.org/abs/2510.01304) | ICLR 2026 | Agentic Interaction, Jigsaw Puzzle, Visual Perception | [GitHub](https://github.com/yuzeng0-0/AGILE) |
-| [DeepEyes: Incentivizing "Thinking with Images" in Vision-Language Models via Reinforcement Learning](https://arxiv.org/abs/2505.14362) | Arxiv 2025 | Reinforcement Learning, Zoom/Crop Tools, Long CoT | [GitHub](https://github.com/deepeyes) |
 | [DeepEyesV2: Toward Agentic Multimodal Model](https://arxiv.org/abs/2511.05271) | Arxiv 2025 | Scaled Tool Learning, Visual Search | [GitHub](https://github.com/Visual-Agent/DeepEyesV2) |
-| [Thyme: Thinking with Images for Visual Reasoning](https://arxiv.org/abs/2508.11630) | Arxiv 2025 | Pixel-space Operations, Code Generation | [GitHub](https://github.com/thyme) |
-| [PixelReasoner: Incentivizing Pixel-Space Reasoning with Curiosity-Driven Reinforcement Learning](https://arxiv.org/abs/2505.15966) | Arxiv 2025 | Pixel-level Operations, Dynamic Visual Manipulation | [GitHub](https://github.com/TIGER-AI-Lab/Pixel-Reasoner) |
-| [Mini-o3: Scaling Up Reasoning Patterns and Interaction Turns for Visual Search](https://arxiv.org/abs/2509.07969) | Arxiv 2025 | Visual Probing, Agentic Tools | [GitHub](https://github.com/Mini-o3/Mini-o3) |
+| [PixelReasoner: Incentivizing Pixel-Space Reasoning with Curiosity-Driven Reinforcement Learning](https://arxiv.org/abs/2505.15966) | NeurIPS 2025 | Pixel-level Operations, Dynamic Visual Manipulation | [GitHub](https://github.com/TIGER-AI-Lab/Pixel-Reasoner) |
 | [VLM-R3: Region Recognition, Reasoning, and Refinement for Enhanced Multimodal Chain-of-Thought](https://arxiv.org/abs/2505.16192) | Arxiv 2025 | Region Refinement, Recursive Focusing | N/A |
-| [Argus: Vision-Centric Reasoning with Grounded Chain-of-Thought](https://arxiv.org/abs/2505.23766) | Arxiv 2025 | Visual CoT, Attention Grounding | N/A |
-| [ReFocus: Visual Editing as a Chain of Thought for Structured Image Understanding](https://arxiv.org/abs/2501.05452) | Arxiv 2025 | Visual Editing, Structured Understanding | [GitHub](https://github.com/zeyofu/ReFocus_Code) |
+| [Argus: Vision-Centric Reasoning with Grounded Chain-of-Thought](https://arxiv.org/abs/2505.23766) | CVPR 2025 | Visual CoT, Attention Grounding | [Project](https://yunzeman.github.io/argus/) |
+| [ReFocus: Visual Editing as a Chain of Thought for Structured Image Understanding](https://arxiv.org/abs/2501.05452) | ICML 2025 | Visual Editing, Structured Understanding | [GitHub](https://github.com/zeyofu/ReFocus_Code) |
 | [Visual Sketchpad: Sketching as a Visual Chain of Thought for Multimodal Language Models](https://arxiv.org/abs/2406.09403) | Arxiv 2024 | Sketching, Visual Chain of Thought | [GitHub](https://github.com/Yushi-Hu/VisualSketchpad) |
-| [Chain-of-Spot: Interactive Reasoning Improves Large Vision-Language Models](https://arxiv.org/abs/2403.12966) | CVPR 2024 | Interactive Spot Identification, Zoom-in Reasoning | [GitHub](https://github.com/chain-of-spot) |
+| [Chain-of-Spot: Interactive Reasoning Improves Large Vision-Language Models](https://arxiv.org/abs/2403.12966) | CVPR 2024 | Interactive Spot Identification, Zoom-in Reasoning | [GitHub](https://github.com/dongyh20/Chain-of-Spot) |
 | [V*: Guided Visual Search as a Core Mechanism in Multimodal LLMs](https://arxiv.org/abs/2312.14135) | CVPR 2024 | Visual Search, Search-based Perception | [GitHub](https://github.com/penghao-wu/vstar) |
 
 ⬆ [Back to Top](#contents)
@@ -161,17 +161,17 @@ This awesome list categorizes methods into four paradigms:
 | Title | Venue & Year | Highlights/Keywords | Code |
 | --- | --- | --- | --- |
 | [LanteRn: Latent Visual Structured Reasoning](https://arxiv.org/abs/2603.25629v1) | Arxiv 2026 | Latent Visual Reasoning, Structured Reasoning | N/A |
-| [TextHawk: Exploring Efficient Fine-Grained Perception of Multimodal Large Language Models](https://github.com/yuyq96/TextHawk) | Arxiv 2025 | Efficient Fine-Grained Perception, Text-rich | [GitHub](https://github.com/yuyq96/TextHawk) |
 | [Traceable Evidence Enhanced Visual Grounded Reasoning: Evaluation and Methodology](https://arxiv.org/abs/2507.07999v2) | ICLR 2026 | Traceable Evidence, Visual Grounded Reasoning | [GitHub](https://github.com/Haochen-Wang409/TreeVGR) |
-| [SSR: Enhancing Depth Perception in Vision-Language Models via Spatial Sense and Reasoning](https://arxiv.org/abs/2505.12448) | ICLR 2026 | Depth Perception, Spatial Reasoning, Structured Rationales | [GitHub](https://github.com/yliu-cs/SSR) |
-| [Zooming without Zooming: Region-to-Image Distillation for Fine-Grained Multimodal Perception](https://arxiv.org/abs/2504.xxxxx) | ICML 2026 | Region-to-Image Distillation, ZoomBench, Single-Pass Perception | [GitHub](https://github.com/inclusionAI/Zooming-without-Zooming) |
+| [Zooming without Zooming: Region-to-Image Distillation for Fine-Grained Multimodal Perception](https://arxiv.org/abs/2602.11858) | ICML 2026 | Region-to-Image Distillation, ZoomBench, Single-Pass Perception | [GitHub](https://github.com/inclusionAI/Zooming-without-Zooming) |
+| [SSR: Enhancing Depth Perception in Vision-Language Models via Rationale-Guided Spatial Reasoning](https://arxiv.org/abs/2505.12448) | NeurIPS 2025 | Depth Perception, Spatial Reasoning, Structured Rationales | [GitHub](https://github.com/yliu-cs/SSR) |
 | [URSA: Understanding and Verifying Chain-of-thought Reasoning in Multimodal Mathematics](https://arxiv.org/abs/2501.04686v1) | Arxiv 2025 | Mathematical Reasoning, Verification | [GitHub](https://github.com/URSA-MATH/URSA-MATH) |
 | [Can We Generate Images with CoT? Let's Verify and Reinforce Image Generation Step by Step](https://arxiv.org/abs/2501.13926) | Arxiv 2025 | Image Generation CoT, Verification | [GitHub](https://github.com/ZiyuGuo99/Image-Generation-CoT) |
 | [RedStar: Does Scaling Long-CoT Data Unlock Better Slow-Reasoning Systems?](https://arxiv.org/abs/2501.11284) | Arxiv 2025 | Long-CoT, Scaling | N/A |
-| [Insight-V: Exploring Long-Chain Visual Reasoning with Multimodal Large Language Models](https://arxiv.org/abs/2411.14432) | Arxiv 2024 | Long-Chain Reasoning, Insightful Analysis | [GitHub](https://github.com/dongyh20/Insight-V) |
-| [Perception Tokens Enhance Visual Reasoning in Multimodal Language Models](https://arxiv.org/abs/2412.03548) | Arxiv 2024 | Perception Tokens, Visual Reasoning | N/A |
+| [Insight-V: Exploring Long-Chain Visual Reasoning with Multimodal Large Language Models](https://arxiv.org/abs/2411.14432) | CVPR 2025 | Long-Chain Reasoning, Insightful Analysis | [GitHub](https://github.com/dongyh20/Insight-V) |
+| [Perception Tokens Enhance Visual Reasoning in Multimodal Language Models](https://arxiv.org/abs/2412.03548) | CVPR 2025 | Perception Tokens, Visual Reasoning | [Project](https://aurora-perception.github.io/) |
 | [Video-of-Thought: Step-by-Step Video Reasoning from Perception to Cognition](https://arxiv.org/abs/2501.03230) | ICML 2024 | Video Reasoning, Perception to Cognition | [GitHub](https://github.com/scofield7419/Video-of-Thought) |
-| [AtomThink: A Slow Thinking Framework for Multimodal Mathematical Reasoning](https://arxiv.org/abs/2411.11930) | Arxiv 2024 | Slow Thinking, Mathematical Reasoning | [GitHub](https://github.com/Kun-Xiang/AtomThink) |
+| [TextHawk: Exploring Efficient Fine-Grained Perception of Multimodal Large Language Models](https://arxiv.org/abs/2404.09204) | Arxiv 2024 | Efficient Fine-Grained Perception, Text-rich | [GitHub](https://github.com/yuyq96/TextHawk) |
+| [AtomThink: A Slow Thinking Framework for Multimodal Mathematical Reasoning](https://arxiv.org/abs/2411.11930) | Arxiv 2024 | Slow Thinking, Mathematical Reasoning | [GitHub](https://github.com/Quinn777/AtomThink) |
 
 ⬆ [Back to Top](#contents)
 
@@ -182,18 +182,18 @@ This awesome list categorizes methods into four paradigms:
 | Title | Venue & Year | Highlights/Keywords | Code |
 | --- | --- | --- | --- |
 | [VTool-R1: VLMs Learn to Think with Images via Reinforcement Learning on Multimodal Tool Use](https://arxiv.org/abs/2505.19255) | ICLR 2026 | Reinforcement Learning, Tool Use, Thinking-with-Images | [GitHub](https://github.com/VTool-R1/VTool-R1) |
-| [Training Multi-Image Vision Agents via End2End Reinforcement Learning](https://arxiv.org/abs/2512.08980v3) | Arxiv 2025 | Multi-Image, End2End RL, Vision Agents | N/A |
 | [Perception-Aware Policy Optimization for Multimodal Reasoning](https://arxiv.org/abs/2507.06448) | ICLR 2026 | PAPO, Perception-Aware RL, Implicit Perception Supervision | [GitHub](https://github.com/MikeWangWZHL/PAPO) |
 | [Perception-R1: Advancing Multimodal Reasoning Capabilities of MLLMs via Visual Perception Reward](https://arxiv.org/abs/2506.07218) | ICLR 2026 | Visual Perception Reward, RLVR, GRPO | [GitHub](https://github.com/tongxiao2002/Perception-R1) |
 | [Spotlight on Token Perception for Multimodal Reinforcement Learning](https://arxiv.org/abs/2510.09285) | ICLR 2026 | Token Perception, Visual Dependency, RLVR Optimization | [GitHub](https://github.com/huaixuheqing/VPPO-RL) |
 | [VisionReasoner: Unified Reasoning-Integrated Visual Perception via Reinforcement Learning](https://arxiv.org/abs/2505.12081) | ICLR 2026 | Unified Perception-Reasoning, RL, Multi-task | [GitHub](https://github.com/JIA-Lab-research/VisionReasoner) |
 | [ViPER: Empowering the Self-Evolution of Visual Perception Abilities in Vision-Language Models](https://arxiv.org/abs/2510.24285) | ICLR 2026 | Self-Evolution, Fine-Grained Perception, RL | [GitHub](https://github.com/Icarus1216/ViPER) |
-| [ViCrit: A Verifiable Reinforcement Learning Proxy Task for Visual Perception](https://arxiv.org/abs/2506.10128) | ICLR 2026 | Visual Hallucination Critic, RL Proxy Task, Fine-Grained Perception | [GitHub](https://github.com/si0wang/ViCrit) |
-| [RAPID: Reasoning-Aligned Perception Decoupling for Scalable Multi-modal Large Language Models](https://arxiv.org/abs/2506.04559) | ICLR 2026 | Perception-Decoupling, Reasoning Alignment, Two-stage Pipeline | [GitHub](https://github.com/gyhdog99/RACRO2) |
-| [R1-VL: Learning to Reason with Multimodal Large Language Models via Step-wise Group Relative Policy Optimization](https://arxiv.org/abs/2503.12937) | ICCV 2025 | GRPO, Step-wise Reasoning | [GitHub](https://github.com/r1-vl) |
+| [RAPID: Reasoning-Aligned Perception Decoupling for Scalable Multi-modal Reasoning](https://arxiv.org/abs/2506.04559) | ICLR 2026 | Perception-Decoupling, Reasoning Alignment, Two-stage Pipeline | [GitHub](https://github.com/gyhdog99/RAPID) |
+| [Training Multi-Image Vision Agents via End2End Reinforcement Learning](https://arxiv.org/abs/2512.08980v3) | Arxiv 2025 | Multi-Image, End2End RL, Vision Agents | N/A |
+| [ViCrit: A Verifiable Reinforcement Learning Proxy Task for Visual Perception in VLMs](https://arxiv.org/abs/2506.10128) | NeurIPS 2025 | Visual Hallucination Critic, RL Proxy Task, Fine-Grained Perception | [GitHub](https://github.com/si0wang/ViCrit) |
+| [R1-VL: Learning to Reason with Multimodal Large Language Models via Step-wise Group Relative Policy Optimization](https://arxiv.org/abs/2503.12937) | ICCV 2025 | GRPO, Step-wise Reasoning | [GitHub](https://github.com/jingyi0000/R1-VL) |
 | [LlamaV-o1: Rethinking Step-by-Step Visual Reasoning in LLMs](https://arxiv.org/abs/2501.06186) | ACL-Findings 2025 | Visual Reasoning, O1-style | [GitHub](https://github.com/mbzuai-oryx/LlamaV-o1) |
-| [Virgo: A Preliminary Exploration on Reproducing o1-like MLLM](https://arxiv.org/abs/2501.01904) | Arxiv 2025 | O1-like MLLM, Reasoning Exploration | [GitHub](https://github.com/Richar-Du/Virgo) |
-| [VisualPRM: An Effective Process Reward Model for Multimodal Reasoning](https://arxiv.org/abs/2503.10291) | Arxiv 2025 | Process Reward Model | [Github](https://internvl.github.io/blog/2025-03-13-VisualPRM/) |
+| [Virgo: A Preliminary Exploration on Reproducing o1-like MLLM](https://arxiv.org/abs/2501.01904) | Arxiv 2025 | O1-like MLLM, Reasoning Exploration | [GitHub](https://github.com/RUCAIBox/Virgo) |
+| [VisualPRM: An Effective Process Reward Model for Multimodal Reasoning](https://arxiv.org/abs/2503.10291) | Arxiv 2025 | Process Reward Model | [Project](https://internvl.github.io/blog/2025-03-13-VisualPRM/) |
 | [MedVLM-R1: Incentivizing Medical Reasoning Capability of VLMs via Reinforcement Learning](https://arxiv.org/abs/2502.19634) | Arxiv 2025 | Medical Reasoning, RL | [GitHub](https://github.com/JZPeterPan/MedVLM-R1) |
 | [MM-Eureka: Exploring Visual Aha Moment with Rule-based Large-scale Reinforcement Learning](https://arxiv.org/abs/2503.07365) | Arxiv 2025 | Visual Aha Moment, Rule-based RL | [GitHub](https://github.com/ModalMinds/MM-EUREKA) |
 | [VisualThinker-R1-Zero: R1-Zero's "Aha Moment" in Visual Reasoning on a 2B Non-SFT Model](https://arxiv.org/abs/2503.05132) | Arxiv 2025 | R1-Zero, Visual Reasoning | [GitHub](https://github.com/turningpoint-ai/VisualThinker-R1-Zero) |
