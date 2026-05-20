@@ -79,7 +79,7 @@ This awesome list categorizes methods into four paradigms:
 | Title | Venue & Year | Highlights/Keywords | Code |
 | --- | --- | --- | --- |
 | [First SFT, Second RL, Third UPT: Continual Improving Multi-Modal LLM Reasoning via Unsupervised Post-Training](https://arxiv.org/abs/2505.22453) | NeurIPS 2025 | Unsupervised Pre-training | [GitHub](https://github.com/waltonfuture/MM-UPT) |
-| [Oasis: One Image is All You Need for Multimodal Instruction Data Synthesis](https://arxiv.org/abs/2503.08741) | Arxiv 2025 | Autonomous Synthesis, Open-source | [GitHub](https://github.com/Letian2003/MM_INF) |
+| [Oasis: One Image is All You Need for Multimodal Instruction Data Synthesis](https://arxiv.org/abs/2503.08741) | ICCV 2025 | Autonomous Synthesis, Open-source | [GitHub](https://github.com/Letian2003/MM_INF) |
 | [MMEvol: Empowering Multimodal Large Language Models with Evol-Instruct](https://arxiv.org/abs/2409.05840) | ACL 2025 | Evolution, Instruction Tuning | [GitHub](https://github.com/RainBowLuoCS/MMEvol) |
 | [Hallucination at a Glance: Controlled Visual Edits and Fine-Grained Multimodal Learning](https://arxiv.org/abs/2506.07227) | NeurIPS 2025 | Minimally Edited, Difference Detection | [GitHub](https://github.com/Relaxed-System-Lab/hallu_med) |
 | [Multimodal Self-Instruct: Synthetic Abstract Image and Visual Reasoning Instruction Using Language Model](https://arxiv.org/abs/2407.07053) | EMNLP 2024 | Self-Instruct, Synthetic Data | [GitHub](https://github.com/zwq2018/Multi-modal-Self-instruct) |
