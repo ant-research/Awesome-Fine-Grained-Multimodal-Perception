@@ -10,6 +10,22 @@ A curated collection of the latest research and resources on **Fine-Grained Mult
 
 ---
 
+## 📢 Latest Updates
+
+| Date | News |
+| :--- | :--- |
+| 2026-06-03 | Updated iVGR venue to ICML 2026; Reorganized structure with What is, 📚 TOC, and time-based sorting |
+
+<details>
+<summary>📜 View More Updates</summary>
+
+| Date | News |
+| :--- | :--- |
+
+</details>
+
+---
+
 ## What is Fine-Grained Multimodal Perception?
 
 Multimodal Large Language Models (MLLMs) excel at broad visual understanding but still struggle with **fine-grained perception**, where decisive evidence is small and easily overwhelmed by global context. Recent advancements have shifted towards a **"Thinking-with-Images"** paradigm, where MLLMs actively acquire local information during inference rather than relying solely on a global image encoding.
@@ -27,6 +43,7 @@ This awesome list categorizes methods into four paradigms:
 
 ## 📚 Table of Contents
 
+- [📢 Latest Updates](#-latest-updates)
 - [What is Fine-Grained Multimodal Perception?](#what-is-fine-grained-multimodal-perception)
 - [Benchmarks & Datasets](#benchmarks--datasets)
 - [Research Papers](#research-papers)
@@ -204,8 +221,16 @@ This awesome list categorizes methods into four paradigms:
 
 | Title | Venue & Year | Highlights/Keywords | Code |
 | --- | --- | --- | --- |
+| **2026** |
+| [iVGR: Internalizing Visually Grounded Reasoning for MLLMs with Reinforcement Learning](https://arxiv.org/abs/2605.31096) | ICML 2026 | Visually Grounded Reasoning, Internalization, RL | N/A |
+| [PAPO: Perception-Aware Policy Optimization for Multimodal Reasoning](https://arxiv.org/abs/2507.06448) | ICLR 2026 | PAPO, Perception-Aware RL, Implicit Perception Supervision | [GitHub](https://github.com/MikeWangWZHL/PAPO) |
+| [Perception-R1: Advancing Multimodal Reasoning Capabilities of MLLMs via Visual Perception Reward](https://arxiv.org/abs/2506.07218) | ICLR 2026 | Visual Perception Reward, RLVR, GRPO | [GitHub](https://github.com/tongxiao2002/Perception-R1) |
+| [RAPID: Reasoning-Aligned Perception Decoupling for Scalable Multi-modal Reasoning](https://arxiv.org/abs/2506.04559) | ICLR 2026 | Perception-Decoupling, Reasoning Alignment, Two-stage Pipeline | [GitHub](https://github.com/gyhdog99/RAPID) |
+| [Spotlight on Token Perception for Multimodal Reinforcement Learning](https://arxiv.org/abs/2510.09285) | ICLR 2026 | Token Perception, Visual Dependency, RLVR Optimization | [GitHub](https://github.com/huaixuheqing/VPPO-RL) |
+| [ViPER: Empowering the Self-Evolution of Visual Perception Abilities in Vision-Language Models](https://arxiv.org/abs/2510.24285) | ICLR 2026 | Self-Evolution, Fine-Grained Perception, RL | [GitHub](https://github.com/Icarus1216/ViPER) |
+| [VisionReasoner: Unified Reasoning-Integrated Visual Perception via Reinforcement Learning](https://arxiv.org/abs/2505.12081) | ICLR 2026 | Unified Perception-Reasoning, RL, Multi-task | [GitHub](https://github.com/JIA-Lab-research/VisionReasoner) |
+| [VTool-R1: VLMs Learn to Think with Images via Reinforcement Learning on Multimodal Tool Use](https://arxiv.org/abs/2505.19255) | ICLR 2026 | Reinforcement Learning, Tool Use, Thinking-with-Images | [GitHub](https://github.com/VTool-R1/VTool-R1) |
 | **Preprints** |
-| [iVGR: Internalizing Visually Grounded Reasoning for MLLMs with Reinforcement Learning](https://arxiv.org/abs/2605.31096) | Arxiv 2026 | Visually Grounded Reasoning, Internalization, RL | N/A |
 | [Boosting Multimodal Reasoning with MCTS-Automated Structured Thinking](https://arxiv.org/abs/2502.02339) | Arxiv 2025 | MCTS, Structured Thinking | [GitHub](https://github.com/waltonfuture/RL-with-Cold-Start) |
 | [Boosting the Generalization and Reasoning of VLMs with Curriculum Reinforcement Learning](https://arxiv.org/abs/2503.07065) | Arxiv 2025 | Curriculum RL, Generalization | N/A |
 | [LMM-R1: Empowering 3B LMMs with Strong Reasoning Abilities Through Two-Stage Rule-Based RL](https://arxiv.org/abs/2503.07536) | Arxiv 2025 | Two-Stage RL, Rule-based | [GitHub](https://github.com/TideDra/lmm-r1) |
@@ -220,14 +245,6 @@ This awesome list categorizes methods into four paradigms:
 | [VisualPRM: An Effective Process Reward Model for Multimodal Reasoning](https://arxiv.org/abs/2503.10291) | Arxiv 2025 | Process Reward Model | [Project](https://internvl.github.io/blog/2025-03-13-VisualPRM/) |
 | [VisualThinker-R1-Zero: R1-Zero's "Aha Moment" in Visual Reasoning on a 2B Non-SFT Model](https://arxiv.org/abs/2503.05132) | Arxiv 2025 | R1-Zero, Visual Reasoning | [GitHub](https://github.com/turningpoint-ai/VisualThinker-R1-Zero) |
 | [VisRL: Intention-Driven Visual Perception via Reinforced Reasoning](https://arxiv.org/abs/2503.07523) | Arxiv 2025 | Intention-Driven, Reinforced Reasoning | [GitHub](https://github.com/zhangquanchen/VisRL) |
-| **2026** |
-| [PAPO: Perception-Aware Policy Optimization for Multimodal Reasoning](https://arxiv.org/abs/2507.06448) | ICLR 2026 | PAPO, Perception-Aware RL, Implicit Perception Supervision | [GitHub](https://github.com/MikeWangWZHL/PAPO) |
-| [Perception-R1: Advancing Multimodal Reasoning Capabilities of MLLMs via Visual Perception Reward](https://arxiv.org/abs/2506.07218) | ICLR 2026 | Visual Perception Reward, RLVR, GRPO | [GitHub](https://github.com/tongxiao2002/Perception-R1) |
-| [RAPID: Reasoning-Aligned Perception Decoupling for Scalable Multi-modal Reasoning](https://arxiv.org/abs/2506.04559) | ICLR 2026 | Perception-Decoupling, Reasoning Alignment, Two-stage Pipeline | [GitHub](https://github.com/gyhdog99/RAPID) |
-| [Spotlight on Token Perception for Multimodal Reinforcement Learning](https://arxiv.org/abs/2510.09285) | ICLR 2026 | Token Perception, Visual Dependency, RLVR Optimization | [GitHub](https://github.com/huaixuheqing/VPPO-RL) |
-| [ViPER: Empowering the Self-Evolution of Visual Perception Abilities in Vision-Language Models](https://arxiv.org/abs/2510.24285) | ICLR 2026 | Self-Evolution, Fine-Grained Perception, RL | [GitHub](https://github.com/Icarus1216/ViPER) |
-| [VisionReasoner: Unified Reasoning-Integrated Visual Perception via Reinforcement Learning](https://arxiv.org/abs/2505.12081) | ICLR 2026 | Unified Perception-Reasoning, RL, Multi-task | [GitHub](https://github.com/JIA-Lab-research/VisionReasoner) |
-| [VTool-R1: VLMs Learn to Think with Images via Reinforcement Learning on Multimodal Tool Use](https://arxiv.org/abs/2505.19255) | ICLR 2026 | Reinforcement Learning, Tool Use, Thinking-with-Images | [GitHub](https://github.com/VTool-R1/VTool-R1) |
 | **2025** |
 | [LlamaV-o1: Rethinking Step-by-Step Visual Reasoning in LLMs](https://arxiv.org/abs/2501.06186) | ACL-Findings 2025 | Visual Reasoning, O1-style | [GitHub](https://github.com/mbzuai-oryx/LlamaV-o1) |
 | [R1-VL: Learning to Reason with Multimodal Large Language Models via Step-wise Group Relative Policy Optimization](https://arxiv.org/abs/2503.12937) | ICCV 2025 | GRPO, Step-wise Reasoning | [GitHub](https://github.com/jingyi0000/R1-VL) |
