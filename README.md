@@ -205,6 +205,7 @@ This awesome list categorizes methods into four paradigms:
 | Title | Venue & Year | Highlights/Keywords | Code |
 | --- | --- | --- | --- |
 | **Preprints** |
+| [iVGR: Internalizing Visually Grounded Reasoning for MLLMs with Reinforcement Learning](https://arxiv.org/abs/2605.31096) | Arxiv 2026 | Visually Grounded Reasoning, Internalization, RL | N/A |
 | [Boosting Multimodal Reasoning with MCTS-Automated Structured Thinking](https://arxiv.org/abs/2502.02339) | Arxiv 2025 | MCTS, Structured Thinking | [GitHub](https://github.com/waltonfuture/RL-with-Cold-Start) |
 | [Boosting the Generalization and Reasoning of VLMs with Curriculum Reinforcement Learning](https://arxiv.org/abs/2503.07065) | Arxiv 2025 | Curriculum RL, Generalization | N/A |
 | [LMM-R1: Empowering 3B LMMs with Strong Reasoning Abilities Through Two-Stage Rule-Based RL](https://arxiv.org/abs/2503.07536) | Arxiv 2025 | Two-Stage RL, Rule-based | [GitHub](https://github.com/TideDra/lmm-r1) |
