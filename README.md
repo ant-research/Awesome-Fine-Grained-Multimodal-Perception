@@ -14,6 +14,7 @@ A curated collection of the latest research and resources on **Fine-Grained Mult
 
 | Date | News |
 | :--- | :--- |
+| 2026-06-04 | Added Attentive-CoT and Beyond Visual Memory to Training-Based Methods (SFT & Distillation) |
 | 2026-06-03 | Updated iVGR venue to ICML 2026; Reorganized structure with What is, 📚 TOC, and time-based sorting |
 
 <details>
@@ -197,6 +198,8 @@ This awesome list categorizes methods into four paradigms:
 | Title | Venue & Year | Highlights/Keywords | Code |
 | --- | --- | --- | --- |
 | **Preprints** |
+| [Attention-guided Fine-tuning of Multimodal Large Language Models Improves Chain-of-Thought Reasoning](https://arxiv.org/abs/2606.01558) | Arxiv 2026 | Attention-Guided CoT-SFT, Delayed Answer Commitment, Visual-Token Access | N/A |
+| [Beyond Visual Memory: Mechanistic Diagnostics of Latent Visual Reasoning](https://arxiv.org/abs/2606.01287) | Arxiv 2026 | Latent Token Decomposition, Boundary Markers, Mechanistic Analysis | N/A |
 | [LanteRn: Latent Visual Structured Reasoning](https://arxiv.org/abs/2603.25629v1) | Arxiv 2026 | Latent Visual Reasoning, Structured Reasoning | N/A |
 | [Can We Generate Images with CoT? Let's Verify and Reinforce Image Generation Step by Step](https://arxiv.org/abs/2501.13926) | Arxiv 2025 | Image Generation CoT, Verification | [GitHub](https://github.com/ZiyuGuo99/Image-Generation-CoT) |
 | [RedStar: Does Scaling Long-CoT Data Unlock Better Slow-Reasoning Systems?](https://arxiv.org/abs/2501.11284) | Arxiv 2025 | Long-CoT, Scaling | N/A |
@@ -298,6 +301,7 @@ For questions or collaborations, please contact:
 - Lai Wei: waltonfuture@sjtu.edu.cn
 - Jun Lan: yelan.lj@antgroup.com
 - Zhuosheng Zhang: zhangzs@sjtu.edu.cn
+- Xianjie Liu: liuxianjie.scu@vip.163.com
 
 ⬆ [Back to Top](#contents)
 
